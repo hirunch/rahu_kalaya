@@ -41,7 +41,7 @@ button {
   height: 44px;
   border-radius: 10px;
   border-style: none;
-  background-color: rgba(235, 191, 103, 0.444);
+  background-color: rgba(103, 156, 235, 0.444);
   color: white;
   font-weight: bold;
   
@@ -52,12 +52,12 @@ button {
 }
 
 button:hover {
-  background-color: rgba(207, 159, 62, 0.625);
+  background-color: rgba(62, 101, 207, 0.625);
 
 }
 
 button:active {
-  background-color: rgba(224, 152, 18, 0.881);
+  background-color: rgba(18, 49, 224, 0.881);
   opacity: 0.5;
 }
 
